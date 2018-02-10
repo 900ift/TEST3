@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 3 Way B Branch
+=======
+3 Way A Brach
+>>>>>>> 3WayA
